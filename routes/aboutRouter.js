@@ -1,8 +1,8 @@
 const { Router } = require("express");
 
-const indexRouter = Router();
+const aboutRouter = Router();
 
 //indexRouter.get("/", (req, res) => res.send("index"));
 
 
-module.exports = indexRouter;
+module.exports = aboutRouter;
